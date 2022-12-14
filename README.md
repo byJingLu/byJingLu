@@ -1,6 +1,8 @@
 ### Hi, I'm Jing 👋
 - 🐍 Dedicated and curious programmer specialised in Python
 - 🌰 Always prepared for challenges with a can-do attitude
+- 🔭 I’m looking to collaborate on any exciting projects 
+- 📫 How to reach me: jing.lu.cn@outlook.com
 ---
 
 ### My Projects - Feel free to try them!
