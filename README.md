@@ -6,9 +6,13 @@
 ---
 
 ### My Projects - Feel free to try them!
-- 💻 I’m currently working on: [Password Hacker](https://github.com/byJingL/Password-Hacker)
+- 💻 I’m currently working on: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)
 
-- 📃 The last project I worked on was: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)  
+- 📃 The last project I worked on was: [Password Hacker](https://github.com/byJingL/Password-Hacker)
+  ---> Don't worry I am not a real hacker! 
+  ---> Figure out how to hack plain text password, and do so in the quickest way possible.
+
+- 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)  
   --> Check and compares files in a folder, displays the result, and removes duplicates.  
   --> Free some space on your drive!
 
