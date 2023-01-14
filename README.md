@@ -1,6 +1,6 @@
 ### Hi, I'm Jing 👋
 - 🐍 Dedicated and curious programmer specialised in Python
-- 🌰 Always prepared for challenges with a can-do attitude
+- 💪 Always prepared for challenges with a can-do attitude
 - 🔭 I’m looking to collaborate on any exciting projects 
 - 📫 How to reach me: jing.lu.cn@outlook.com
 ---
@@ -12,9 +12,9 @@
   ---> Don't worry! I am not a real hacker!   
   ---> Figure out how to hack plain text password, and do so in the quickest way possible.
 
-- 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)  
+- 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)    
+  --> Free some space on your drive!  
   --> Check and compares files in a folder, displays the result, and removes duplicates.  
-  --> Free some space on your drive!
 
 - 🧩 Playful game: [Knights Tour Puzzle](https://github.com/byJingL/Knights-Tour-Puzzle)  
   ---> Fun puzzle where you move the knight so that it visits every square of the chessboard once.  
