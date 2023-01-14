@@ -41,7 +41,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>  
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byJingL&layout=compact" alt="languages" width="250" height="125"/>
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="350">
+</div>
 
+<hr>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byJingL)](https://git.io/streak-stats)   -->
