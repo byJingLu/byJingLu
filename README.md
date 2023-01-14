@@ -45,6 +45,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="350">
 </div>
 
-<hr>
-
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byJingL)](https://git.io/streak-stats)   -->
