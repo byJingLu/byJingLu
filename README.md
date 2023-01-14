@@ -3,7 +3,11 @@
 - 💪 Always prepared for challenges with a can-do attitude
 - 🔭 I’m looking to collaborate on any exciting projects 
 - 📫 How to reach me: jing.lu.cn@outlook.com
----
+<div align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="300">
+</div>
+
+-----
 
 ### My Projects - Feel free to try them!
 - 💻 I’m currently working on: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)
@@ -41,8 +45,5 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>  
 
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="350">
-</div>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=byJingL)](https://git.io/streak-stats)   -->
