@@ -4,7 +4,7 @@
 - 🔭 I’m looking to collaborate on any exciting projects 
 - 📫 How to reach me: jing.lu.cn@outlook.com
 <div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="300">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="450">
 </div>
 
 -----
