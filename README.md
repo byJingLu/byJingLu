@@ -10,10 +10,10 @@
 -----
 
 ### My Projects - Feel free to try them!
-- 💻 I’m currently working on: [Multilingual-Online-Translator](https://github.com/byJingL/Multilingual-Online-Translator)
+- 💻 I’m currently working on: [Easy Rider Bus Company]()
 
-- 📃 The last project I worked on was: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)  
-  ---> Check code format of Python files meets the standards and recommendations according to PEP8 using re module and ast module.
+- 📃 The last project I worked on was: [Multilingual Online Translator](https://github.com/byJingL/Multilingual-Online-Translator)  
+  ---> Translate words to many languages and give you many usage examples at the same time.
 
 - 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)    
   --> Free some space on your drive!  
@@ -26,6 +26,9 @@
 - 📜 Practice of generator and iterator: [Password Hacker](https://github.com/byJingL/Password-Hacker)  
   ---> Don't worry! I am not a real hacker!   
   ---> Figure out how to hack plain text password, and do so in the quickest way possible using itertools modules.
+
+- 🔎 Code format check: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)  
+  ---> Check code format of Python files meets the standards and recommendations according to PEP8 using re module and ast module.
 
 ----
 
