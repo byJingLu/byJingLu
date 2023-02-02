@@ -10,25 +10,30 @@
 -----
 
 ### My Projects - Feel free to try them!
-- 💻 I’m currently working on: [Easy Rider Bus Company]()
+- 💻 I’m currently working on: [Smart Calculator]()
 
-- 📃 The last project I worked on was: [Multilingual Online Translator](https://github.com/byJingL/Multilingual-Online-Translator)  
-  ---> Translate words to many languages and give you many usage examples at the same time.
+- 📃 The last project I worked on was: [Easy Rider Bus Company](https://github.com/byJingL/Easy-Rider-Bus-Company)
+  --> Find all the mistakes in the database for a bus company based on the documentation.
+  --> Supported Checking: required data, data format, all bus line information, all stops information, all arrive times, on-demand stops
 
 - 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)    
   --> Free some space on your drive!  
   --> Check and compares files in a folder, displays the result, and removes duplicates.  
 
+- 🔤 language learning: [Multilingual Online Translator](https://github.com/byJingL/Multilingual-Online-Translator)  
+  --> Translate words to many languages and give you many usage examples at the same time.
+  --> Supported Languages: Arabic, German, English, Spanish, French, Hebrew, Japanese, Dutch, Polish, Portuguese, Romanian, Russian, Turkish
+
 - 🧩 Playful game: [Knights Tour Puzzle](https://github.com/byJingL/Knights-Tour-Puzzle)  
-  ---> Fun puzzle where you move the knight so that it visits every square of the chessboard once.  
-  ---> Only supports Terminal for now. GUI version coming soon.  
+  --> Fun puzzle where you move the knight so that it visits every square of the chessboard once.  
+  --> Only supports Terminal for now. GUI version coming soon.  
 
 - 📜 Practice of generator and iterator: [Password Hacker](https://github.com/byJingL/Password-Hacker)  
-  ---> Don't worry! I am not a real hacker!   
-  ---> Figure out how to hack plain text password, and do so in the quickest way possible using itertools modules.
+  --> Don't worry! I am not a real hacker!   
+  --> Figure out how to hack plain text password, and do so in the quickest way possible using itertools modules.
 
 - 🔎 Code format check: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)  
-  ---> Check code format of Python files meets the standards and recommendations according to PEP8 using re module and ast module.
+  --> Check code format of Python files meets the standards and recommendations according to PEP8 using re module and ast module.
 
 ----
 
