@@ -10,11 +10,9 @@
 -----
 
 ### My Projects - Feel free to try them!
-- 💻 I’m currently working on: [Flashcard]()
-
-- 📃 The last project I worked on was: [Smart Calculator](https://github.com/byJingL/Smart-Calculator)  
-  --> Built a calculator is smart enough to handle long expressions.  
-  --> Supported: addition `+`, subtraction `-`, multiplication `*`, division `/`, power `^`, parentheses `(...)`, a sequence of `+` or `-` (like `+++` or `--+`) and variables
+- 📃 The last project I worked on was: [Flashcard](https://github.com/byJingL/Flashcards)  
+  --> Used to remember any sort of data. It can record users' learning progress by importing and exporting file.  
+  --> Supported functions : add/remove a card, load cards from/save cards to file, ask for random cards, save all log to the given file, print terms that the user makes most mistakes with, erase the mistake count for all cards...
 
 - 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)    
   --> Free some space on your drive!  
@@ -30,6 +28,10 @@
 
 - 🔎 Code format check: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)  
   --> Check code format of Python files meets the standards and recommendations according to PEP8 using re module and ast module.
+
+- 🧮 Handle long calculate expressions [Smart Calculator](https://github.com/byJingL/Smart-Calculator)  
+  --> Built a calculator is smart enough to handle long expressions.  
+  --> Supported: addition `+`, subtraction `-`, multiplication `*`, division `/`, power `^`, parentheses `(...)`, a sequence of `+` or `-` (like `+++` or `--+`) and variables
 
 - 🟰 Database format check: [Easy Rider Bus Company](https://github.com/byJingL/Easy-Rider-Bus-Company)  
   --> Find all the mistakes in the database for a bus company based on the documentation.  
