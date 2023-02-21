@@ -28,9 +28,9 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original-wordmark.svg" alt="Heroku" width="40" height="40"/> </a>
  </p>
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=byJingL&theme=github-dark-blue&hide_border=true&include_all_commits=true" alt="stats" width="450">
-</div>
+</div> -->
 
 ----    
 
