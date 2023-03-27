@@ -1,7 +1,8 @@
 ### Hi, I'm Jing 👋
 - 🐍 Dedicated and curious programmer specialised in Python
 - 💪 Always prepared for challenges with a can-do attitude
-- 🔭 I’m looking to collaborate on any exciting projects 
+- 🔭 I’m currently working on 12 week part time Nanodegree with Code First Girl!
+- I’m looking to collaborate on any exciting position 
 - 📫 How to reach me: jing.lu.cn@outlook.com
 
 🔧 Toolbox
