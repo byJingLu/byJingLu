@@ -1,7 +1,7 @@
 ### Hi, I'm Jing 👋
 - 🐍 Dedicated and curious programmer specialised in Python 
 - 💪 Always prepared for challenges with a can-do attitude
-- 🌱 I’m currently working on 12 + 4 week part time Nanodegree with Code First Girl!
+- 🌱 I have finished 12 week part time Software Engineering Nanodegree with Code First Girl!
 - 🔭 I’m looking to collaborate on any exciting position 
 - 📫 How to reach me: jing.lu.cn@outlook.com
 
@@ -37,6 +37,8 @@
 ----    
 
 ### My Projects - Feel free to try them!
+- 💻 I’m currently working on: [Movie Reviwer](https://github.com/byJingL/MovieReviewer) with [Dipesh Malvia](https://www.youtube.com/@DipeshMalvia)
+
 - 📃 The last project I worked on was: [Flashcard](https://github.com/byJingL/Flashcards)  
   --> Used to remember any sort of data. It can record users' learning progress by importing and exporting file.  
   --> Supported functions : add/remove a card, load cards from/save cards to file, ask for random cards, save all log to the given file, print terms that the user makes most mistakes with, erase the mistake count for all cards...
