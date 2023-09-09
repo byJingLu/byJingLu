@@ -44,27 +44,22 @@
   --> Supported functions : add/remove a card, load cards from/save cards to file, ask for random cards, save all log to the given file, print terms that the user makes most mistakes with, erase the mistake count for all cards...
 
 - 🪛 Useful tool: [Duplicate File Handler](https://github.com/byJingL/Duplicate-File-Handler)    
-  --> Free some space on your drive!  
-  --> Check and compares files in a folder, displays the result, and removes duplicates.  
+  --> Free some space on your drive! Check and compares files in a folder, displays the result, and removes duplicates.  
 
 - 🔤 language learning: [Multilingual Online Translator](https://github.com/byJingL/Multilingual-Online-Translator)   
-  --> Translate words to many languages and give you many usage examples at the same time.  
-  --> Supported Languages: Arabic, German, English, Spanish, French, Hebrew, Japanese, Dutch, Polish, Portuguese, Romanian, Russian, Turkish
+  --> Translate words to many languages and give you many usage examples at the same time. Supported Languages: Arabic, German, English, Spanish, French, Hebrew, Japanese, Dutch, Polish, Portuguese, Romanian, Russian, Turkish
 
 - 🧩 Playful game: [Knights Tour Puzzle](https://github.com/byJingL/Knights-Tour-Puzzle)  
   --> Fun puzzle where you move the knight so that it visits every square of the chessboard once.  
-  --> Only supports Terminal for now. GUI version coming soon.  
 
 - 🔎 Code format check: [Static Code Analyzer](https://github.com/byJingL/Static-Code-Analyzer)  
   --> Check code format of Python files meets the standards and recommendations according to PEP8 using re module and ast module.
 
 - 🧮 Handle long calculate expressions [Smart Calculator](https://github.com/byJingL/Smart-Calculator)  
-  --> Built a calculator is smart enough to handle long expressions.  
-  --> Supported: addition `+`, subtraction `-`, multiplication `*`, division `/`, power `^`, parentheses `(...)`, a sequence of `+` or `-` (like `+++` or `--+`) and variables
+  --> Built a calculator is smart enough to handle long expressions. Supported: addition `+`, subtraction `-`, multiplication `*`, division `/`, power `^`, parentheses `(...)`, a sequence of `+` or `-` (like `+++` or `--+`) and variables
 
 - 🟰 Database format check: [Easy Rider Bus Company](https://github.com/byJingL/Easy-Rider-Bus-Company)  
-  --> Find all the mistakes in the database for a bus company based on the documentation.  
-  --> Supported Checking: required data, data format, all bus line information, all stops information, all arrive times, on-demand stops
+  --> Find all the mistakes in the database for a bus company based on the documentation. Supported Checking: required data, data format, all bus line information, all stops information, all arrive times, on-demand stops
 
 ----
 
