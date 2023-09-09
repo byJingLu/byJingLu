@@ -37,7 +37,7 @@
 ----    
 
 ### My Projects - Feel free to try them!
-- 💻 I’m currently working on: [Movie Reviwer](https://github.com/byJingL/MovieReviewer) with [Dipesh Malvia](https://www.youtube.com/@DipeshMalvia)
+- 💻 I’m currently working on: [YelpCamp]() with [Colt Steele](https://www.udemy.com/course/the-web-developer-bootcamp/learn/lecture/22291304#overview)
 
 - 📃 The last project I worked on was: [Flashcard](https://github.com/byJingL/Flashcards)  
   --> Used to remember any sort of data. It can record users' learning progress by importing and exporting file.  
