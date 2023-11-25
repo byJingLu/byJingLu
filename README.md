@@ -2,7 +2,7 @@
 - 🐍 Dedicated and curious programmer specialised in Python 
 - 💪 Always prepared for challenges with a can-do attitude
 - 🌱 I have finished 12 week part time Software Engineering Nanodegree with Code First Girl!
-- 📫 How to reach me: jing.lu.cn@outlook.com
+- 📫 How to reach me: jingllu@outlook.com
 
 🔧 Toolbox
 <p>
