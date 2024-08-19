@@ -1,7 +1,7 @@
 ### Hi, I'm Jing 👋
 - 🐍 Dedicated and curious programmer, always prepared for challenges with a can-do attitude
 - 🌱 I have finished 12 week part-time Nanodegree with Code First Girl!
-- 📫 How to reach me: jingllu@outlook.com
+- 📫 How to reach me: jing.n.lu@outlook.com
 
 🔧 Toolbox
 <p>
